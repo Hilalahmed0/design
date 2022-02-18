@@ -1,0 +1,92 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,200&family=Ubuntu+Condensed&display=swap'); */
+body {
+    background-color: rgb(187, 227, 228);
+    
+}
+ .cont{
+     float:right;
+    margin-top: 40px;
+    margin-right: 21px;
+}
+.logobox{
+    margin: 50px 0 0 100px;
+}
+
+.p{
+    margin: 50px 0 0 100px ;
+    font-size: 40px;
+   
+   
+
+}
+.a{
+    letter-spacing: 15px;
+    font-size:60px;
+    font-weight: 800;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(219, 180, 202);
+}
+.b{
+    font-size: 60px;
+    letter-spacing: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900px;
+}
+.c{
+    font-size: 60px;
+    letter-spacing: 10px;
+    font-weight: 900;
+    
+    font-family: 'Josefin Sans', sans-serif;
+}
+.pre{
+    margin: 30px 0 0 -110px ;
+    font-size: 17px;
+    line-height: 32px;
+    font-weight: 700;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(228, 188, 210);
+}
+.container{
+    height: 700px;
+    width: 812px;
+    background-image: url(Peace.jpg);
+    background-size: cover;
+    float:left;
+    margin:40px 0 40px 40px;
+    
+}
+form{
+ margin-left: 80px;
+}
+input{
+    font-size: 18px;
+    width: 480px;
+    height:45px;
+    border-radius: 20px;
+    padding-left:30px;
+    font-weight: 900;
+   background: none;
+   border:2px solid rgb(202, 200, 200);
+   font-family: 'Josefin Sans', sans-serif;
+   color:rgb(245, 149, 202) ;
+}
+button{
+    background-color: rgb(255, 198, 229);
+    width: 100px;
+    height:49px;
+    border-radius: 24px;
+    font-size: 20px;
+    color: white;
+    margin-left: -50px;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    border: none;
+}
+button:hover{
+    background-color: rgb(253, 85, 141)
+    
+}
